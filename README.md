@@ -9,10 +9,10 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Hey+there%2C+I+am+Maina+Iraki;a+data+professional+based+in+Nairobi;and+a+data+fanatic;Hit+me+up%2C+I'd+love+to+work+with+you&font=Fira%20Code&center=true&width=480&height=45&color=36BCF7FF&vCenter=true&size=22"></a>
 </p>
 <p align="center">
-- 🔭 I’m currently working on something interesting with R.
+🔭 I am currently working on something interesting with R.
 </p>
 <p align="center">
-- 🌱 I’m currently learning scikit-learn.
+🌱 Currently learning scikit-learn and NLP
 </p>
 <!--Socials-->
 <p align="center">
